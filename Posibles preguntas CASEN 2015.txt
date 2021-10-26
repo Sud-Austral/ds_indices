@@ -1,0 +1,293 @@
+MODULO H: RESIDENTES
+
+h4. ¿Cuál es el estado conyugal o civil actual 
+de [NOMBRE]?
+
+MODULO E: EDUCACIÓN
+
+e5.b. ¿Cuándo fue la últi ma vez que asisti ó a 
+algún establecimiento educacional?
+
+e6.d. ¿En qué ti po de insti tución 
+realizó su educación superior?
+
+e8. ¿Cuál es la dependencia administrati va del 
+establecimiento?
+
+e10. En el año escolar 2015, ¿recibe alimentación gratuita en el establecimiento educacional?
+
+e10.e En el año 
+escolar 2015, ¿ha 
+recibido tarjeta 
+JUNAEB para 
+alimentación? 
+
+e11.a. En el año escolar 2015, ¿ha recibido o recibió alguna beca?
+
+e12. En el año escolar 2015, ¿ha recibido alguno de los siguientes benefi cios?
+
+e13.a. En el año escolar 2015, ¿paga colegiatura 
+o fi nanciamiento comparti do?
+
+e13.b. ¿Cuánto paga mensualmente?
+
+e14. En el año escolar 2015, 
+¿cuánto cuesta mensualmente 
+la carrera que estudia?
+
+e15.a. En el año escolar 2015, ¿cuánto paga 
+mensualmente por la carrera que estudia?
+
+e16. En el año escolar 2015, 
+¿recibe alguno de los siguientes 
+créditos universitarios para 
+pagar la carrera que estudia?
+
+MODULO O: TRABAJO
+
+o10. ¿Cuántas horas trabaja 
+habitualmente por semana 
+en su trabajo, negocio o 
+acti vidad principal?
+
+o11. ¿Ud. está dispuesto 
+a trabajar más horas a la 
+semana?
+
+o19. ¿Qué ti po de 
+horario ti ene en su 
+trabajo actual?
+
+o23. ¿Cuántas personas trabajan en 
+total en ese negocio o empresa o 
+insti tución en Chile?
+
+o24. ¿En su empleo principal, pertenece a alguna de las 
+siguientes organizaciones en relación con su trabajo?
+
+o25.a. En un día habitual, ¿cuánto ti empo en 
+total tarda en llegar desde su vivienda a su lugar 
+principal de trabajo? 
+ (Horas - minutos)
+
+ o25.b. ¿Cuántas veces a la semana 
+ realiza este viaje?
+ 
+o25.c. ¿Qué medio de transporte uti liza habitualmente para realizar este viaje?
+
+o28. Se encuentra afi liado a algún sistema previsional (sistema de pensiones)?
+
+MODULO Y: INGRESOS
+
+y1. El mes pasado, ¿cuál fue su sueldo o salario líquido en su trabajo 
+principal?
+
+y2. El mes pasado, ¿a cuántos días 
+y horas pactadas con su empleador 
+correspondió ese sueldo o salario?
+
+y13. El mes pasado, ¿recibió ingresos por...?
+
+y19. El mes pasado, 
+¿recibió Asignación Familiar? Indique el tramo 
+y el número de asignaciones que recibió.
+
+y20. El mes pasado, ¿recibió ingresos 
+por...?
+
+y21a. ¿Parti cipa su núcleo 
+familiar en Chile Solidario?
+
+y21b. ¿Parti cipa su núcleo 
+familiar en el Programa 
+Ingreso Éti co Familiar 
+(Seguridades y Oportunidades)?
+
+y22. El mes pasado, ¿recibió ingresos por...? 
+
+y23. El mes pasado, ¿recibió ingresos por... 
+
+y24. El mes pasado, 
+¿recibió Subsidio de Agua 
+Potable (SAP)? 
+¿Me puede indicar el 
+monto?
+
+y25. En los últi mos 12 meses, ¿recibió ingresos por...? 
+
+y25. (Conti nuación) En los últi mos 12 meses, ¿recibió ingresos por... ? 
+
+y26.1. El mes pasado, ¿recibió ingresos por...?
+
+y26.2b. ¿Me podría indicar el monto de la Jubilación o Pensión de Vejez (Monto1($)) con 
+Aporte Previsional Solidario (Monto2($))?
+
+y26.3b. ¿Me puede indicar qué insti tución pagó estos benefi cios? (Inst)
+
+y26.4b. ¿Cuál es la modalidad de la pensión que recibe? (Mod)
+
+y26.2c ¿Me podría indicar el monto de la Jubilación o Pensión de Vejez? (Monto ($))
+
+y26.3c ¿Me puede indicar qué insti tución pagó estos benefi cios? (Inst)
+
+y26.4c ¿Cuál es la modalidad de la Pensión que recibe? (Mod)
+
+y26.2e. ¿Me podría indicar el monto de la Jubilación o Pensión de Invalidez (Monto1 ($)) con 
+Aporte Previsional Solidario (Monto2 ($))?
+
+y26.3e. ¿Me puede indicar qué insti tución pagó estos benefi cios? (Inst)
+
+y26.4e. ¿Cuál es la modalidad de la pensión que recibe? (Mod)
+
+y26.2f. ¿Me podría indicar el monto de la Jubilación o Pensión de Invalidez? 
+(Monto ($))
+
+y26.3f. ¿Me puede indicar qué insti tución pagó estos benefi cios? (Inst)
+
+y26.4f. ¿Cuál es la modalidad de la Pensión que recibe? (Mod)
+
+y26.2g. ¿Me podría indicar el monto de la Montepío o Pensión de Viudez? (Monto($))
+
+y26.3g. ¿Me puede indicar qué insti tución pagó estos benefi cios? (Inst)
+
+y26.4g. ¿Cuál es la modalidad de la pensión que recibe? (Mod)
+
+y26.2h. ¿Me podría indicar el monto de la Pensión de Orfandad? (Monto($))
+
+y26.3h. ¿Me puede indicar qué insti tución pagó estos benefi cios? (Inst)
+
+y26.4h. ¿Cuál es la modalidad de la pensión que recibe? (Mod)
+
+y26.2j. ¿Me podría indicar el monto de la otra Pensión o Jubilación? (Monto ($))
+
+y26.3j. ¿Me puede indicar qué insti tución pagó estos benefi cios? (Inst)
+
+y26.4j. ¿Cuál es la modalidad de la pensión que recibe? (Mod)
+
+y27. ¿Tiene en uso…?
+
+MODULO S: SALUD
+
+s1. ¿Cuál es el estado nutricional de [NIÑO/A]?
+
+s2. En los últi mos tres 
+meses, ¿recibió o reti ró, 
+gratuitamente, alimentos 
+del consultorio?
+
+s3. En los últi mos 
+tres meses, 
+¿recibió o reti ró, 
+gratuitamente, 
+alimentos del 
+consultorio?
+
+s10. En los últi mos tres años, 
+¿se ha hecho una mamografí a?
+
+s11. ¿Por qué no se la ha hecho?
+
+s12. ¿A qué sistema previsional de salud pertenece usted?
+
+s18. Cuando consultó, ¿se le presentó alguno de los siguientes 
+problemas?
+
+s26.a. ¿Cuántos controles de salud se realizó 
+usted en los últi mos 3 meses?
+
+s26.c. ¿En qué establecimiento se realizó el 
+últi mo control?
+
+s28. Durante los últi mos 12 
+meses ¿ha estado en tratamiento 
+médico por...?
+
+s29. Este tratamiento médico, 
+¿fue cubierto por el sistema 
+AUGE-GES?
+
+s31. ¿Tiene Ud. alguna de las 
+siguientes condiciones permanentes 
+y/o de larga duración?
+
+MODULO R: RESIDENTES
+
+r1.c. ¿En qué año llegó usted al país?
+
+r8. Durante los últi mos 12 meses, ¿Ud. o alguien de su hogar ha sido 
+tratado injustamente o discriminado, fuera de su hogar debido a:...?
+
+r13.b. Su núcleo, ¿cuántos vehículos de uso parti cular 
+ti ene en uso y en funcionamiento?
+
+r14. Su núcleo, ¿ti ene en uso y funcionamiento…?
+
+r15. ¿Tiene ud. o algún miembro de su hogar acceso a 
+algún ti po de conexión pagada a Internet en la vivienda, independiente de si se usa o no?
+
+r16. ¿Cuál es la razón principal por la que no ti ene 
+conexión pagada a Internet en su vivienda?
+
+r20. ¿Tiene Ud. teléfono móvil en funcionamiento y 
+en uso?
+
+MODULO V: VIVIENDA
+
+v1. ¿Cuál es el ti po de vivienda que ocupa el entrevistado?
+
+v2. ¿Cuál es el material que predomina en los muros exteriores 
+de la vivienda? 
+
+v4. ¿Cuál es el material que predomina en el piso de la vivienda?
+
+v6. ¿Cuál es el material que predomina en el techo de la vivienda?
+
+v8. ¿Cuántas viviendas hay en el siti o? 
+
+v9. Su hogar, ¿bajo qué situación ocupa el siti o?
+
+v11. ¿Cuántos metros cuadrados ti ene la vivienda? 
+
+v12. Su hogar, ¿bajo qué situación ocupa la vivienda?
+
+v15. ¿En qué año compró o recibió la vivienda o el subsidio?
+
+v16. ¿Compró la vivienda con ayuda de algún programa habitacional o 
+subsidio del Estado? 
+
+v17. ¿Compró la vivienda con crédito hipotecario?
+
+v18. ¿Está pagando su crédito hipotecario actualmente?
+
+v19. ¿Cuánto paga (o debería pagar) de dividendo?
+
+v20. ¿Cuántos años le faltan para terminar de pagar 
+su crédito hipotecario?
+
+v21. Su hogar, ¿cuánto paga de arriendo?
+
+v23. ¿De dónde proviene el agua de la vivienda?
+
+v25. La vivienda donde usted vive, ¿dispone de sistema de eliminación de 
+excretas?
+
+v26. La vivienda donde usted vive, ¿dispone de energía eléctrica?
+
+v29. ¿Cuántas piezas de cada ti po ti ene la vivienda?
+
+v30. ¿Cuántos hogares hay en esta vivienda?
+
+v33. ¿Cuál es la principal razón para comparti r esta vivienda con otro hogar?
+
+v36. ¿Qué combusti ble o fuente de energía usa habitualmente para…?
+
+v38. En el últi mo mes, ¿Ud. o alguien de su hogar, ha vivido o presenciado 
+alguna de las siguientes situaciones...?
+
+v39. En los últi mos 12 meses, ¿Ud. o alguien de su hogar, ha vivido o 
+presenciado alguna de las siguientes situaciones...? 
+
+
+
+
+
